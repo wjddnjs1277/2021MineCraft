@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b82145ddf9d85ed41a9685b3490bc76b, type: 3}
+  m_Name: Recipe_CraftTable
+  m_EditorClassIdentifier: 
+  materialArray:
+  - item: {fileID: 11400000, guid: c697d3b5f1caa424fae2735f75cd639e, type: 2}
+    count: 4
+  result: {fileID: 11400000, guid: 4a09c7fb68ff13c42a9e1562b65438d6, type: 2}
